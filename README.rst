@@ -1,7 +1,7 @@
 .. -*- mode: rst -*-
 
 
-   Recsys  lectures as IPython notebooks
+   Recsys lectures as IPython notebooks
    ===================================
 
    Those are lectures and demonstrations of Recsys  using several libraries such as ``crab``,  ``pandas``, ``scikit-learn``,
