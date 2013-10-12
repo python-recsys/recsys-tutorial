@@ -36,4 +36,3 @@
        This tutorial is distributed under the Creative Commons Attribution
        3.0 license. The Python example code and solutions to exercises are
        distributed under the license Simplified BSD.
-
