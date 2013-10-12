@@ -1,6 +1,5 @@
 .. -*- mode: rst -*-
 
-
    Recsys lectures as IPython notebooks
    ===================================
 
