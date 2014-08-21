@@ -26,7 +26,7 @@
 
        Use the following links:
 
-       * [0-Introduction-to-Non-Personalized-Recommenders](http://nbviewer.ipython.org/urls/raw.github.com/marcelcaraciolo/recsys-tutorial/master/tutorial/0-Introduction-to-Non-Personalized-Recommenders.ipynb)
+       * [0-Introduction-to-Non-Personalized-Recommenders](http://nbviewer.ipython.org/github/python-recsys/recsys-tutorial/blob/master/tutorial/0-Introduction-to-Non-Personalized-Recommenders.ipynb)
 
 
        License
